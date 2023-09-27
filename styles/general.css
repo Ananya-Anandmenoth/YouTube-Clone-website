@@ -1,0 +1,80 @@
+p{
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+body{
+    margin:0;
+    padding-top: 65px;
+    padding-left: 96px;
+    padding-right: 50px;
+    padding-bottom: 400px;
+    background-color: rgb(241, 240, 240);
+}
+
+.video-time{
+    background-color: black;
+    color: white;
+    position: absolute;bottom: 0;
+    right: 5px;
+    bottom: 8px;
+    font-family: Roboto,Arial;
+    font-weight:500;
+    font-size: 13px;
+    padding-left: 4px;
+    border-radius: 2px;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+}
+
+.video-Time{
+    background-color: black;
+    color: white;
+    position: absolute;bottom: 0;
+    right: 5px;
+    bottom: 73px;
+    font-family: Roboto,Arial;
+    font-weight:500;
+    font-size: 13px;
+    padding-left: 4px;
+    border-radius: 2px;
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    
+}
+
+.video-TIME{
+    background-color: black;
+    color: white;
+    position: absolute;bottom: 0;
+    right: 5px;
+    bottom: 112px;
+    font-family: Roboto,Arial;
+    font-weight:500;
+    font-size: 13px;
+    padding-left: 5px;
+    border-radius: 2px;
+    padding-top: 4px;
+    padding-right: 5px;
+    padding-bottom: 4px;
+}
+
+.video-TIMe{
+    background-color: black;
+    color: white;
+    position: absolute;bottom: 0;
+    right: 5px;
+    bottom: 97px;
+    font-family: Roboto,Arial;
+    font-weight:500;
+    font-size: 13px;
+    padding-left: 5px;
+    border-radius: 2px;
+    padding-top: 4px;
+    padding-right: 5px;
+    padding-bottom: 4px;
+}
